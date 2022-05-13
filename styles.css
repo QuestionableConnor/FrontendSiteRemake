@@ -162,6 +162,12 @@ input, textarea{
     font-size: 20px;
 }
 
+textarea{
+    min-width: 552px;
+    max-width: 552px;
+    min-height: 40px;
+}
+
 button{
     background-color: #05c7cf;
     color: white;
